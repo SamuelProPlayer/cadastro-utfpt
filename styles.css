@@ -29,12 +29,12 @@ body * {
  }
 .btn-nav > a button:hover {
     cursor: pointer;
-    color: #e3d000;
+    color: #000000;
     -webkit-transform: scale(1.05);
     transform: scale(1.05); 
     transition-duration:600ms;}
 #btn-add {
-    background:#e3d000;
+    background:#000000;
     color: white;
     border-radius: 8px;
     padding: 4px 20px;
@@ -98,7 +98,7 @@ body * {
     box-shadow: 0px 10px 40px #00000056;
 }
 .card-login > h1{
-    color: #e3d000;
+    color: #000000;
     font-weight: 800;
     margin: 0;}
 
@@ -115,7 +115,7 @@ body * {
     border: none;
     border-radius: 10px;
     padding: 13px;
-    background-color: #e3d000;
+    background-color: #000000;
     color: aliceblue;
     font-size: 12pt;
     box-shadow: 0px 10px 40px #00000056;
@@ -147,7 +147,7 @@ body * {
 }
 .btn-cadastro:hover{
     cursor: pointer;
-    background-color: #e3d000;
+    background-color: #000000;
     -webkit-transform: scale(1.05);
     transform: scale(1.05); 
     transition-duration:600ms;
