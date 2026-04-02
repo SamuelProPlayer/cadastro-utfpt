@@ -41,7 +41,18 @@ body * {
 }
 
 #btn-premium{
+   .btn-nav > a button:hover {
+    cursor: pointer;
     color: #ffd900;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05); 
+    transition-duration:600ms;}
+#btn-add {
+    background:#000000;
+    color: white;
+    border-radius: 8px;
+    padding: 4px 20px;
+
 }
 #logo > a img{
     display: flex;
@@ -53,7 +64,7 @@ body * {
 #logo > a img:hover{
     cursor: pointer;
 }
-/*====== Pagina inicial ======*/
+
 .main{ 
     width: 100vw;
     height: 100vh;
@@ -63,7 +74,7 @@ body * {
     align-items: center;
     margin-top: 20px;
 }
-/*====== Inicio ======*/
+
 .inicio{
     width: 50vw;
     height: 100vh;
@@ -78,7 +89,7 @@ body * {
     width: 33vw;
 }
 
-/*====== Login ======*/
+
 .login{
     width: 50vw;
     height: 100vh;
@@ -152,7 +163,7 @@ body * {
     transform: scale(1.05); 
     transition-duration:600ms;
 }
-
+gjdgjsrj
 .label1{
     color: rgb(0, 0, 0);
     font-size: 10pt;
