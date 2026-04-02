@@ -128,7 +128,7 @@ body * {
     margin-top: 20px;
 }
 .textfield > input::placeholder{
-    color: rgb(207, 207, 207);
+    color: rgb(0, 0, 0);
 }
 .btn-cadastro{
     width: 60%;
@@ -159,7 +159,7 @@ body * {
     padding-top: 6px;}
 
 
-/*====== Outras configurações ======*/
+
 @media only screen and (max-width: 950px){
     .card-login{
         width: 85%;
