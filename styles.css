@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: 'Noto Sans', sans-serif;
-    background: #201b2c;
+    background: #fbfbfb;
 }
 
 body * {
@@ -15,7 +15,7 @@ body * {
     flex-direction: row;
     width: 100vw;
     justify-content: flex-end;
-    background: #201b2c;}
+    background: #ffffff;}
 
 .btn-nav{
     margin-right: 3rem;}
