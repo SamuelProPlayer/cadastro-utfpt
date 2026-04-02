@@ -41,17 +41,9 @@ body * {
 }
 
 #btn-premium{
-   .btn-nav > a button:hover {
-    cursor: pointer;
+   
     color: #ffd900;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05); 
-    transition-duration:600ms;
-#btn-add 
-    background:#000000;
-    color: white;
-    border-radius: 8px;
-    padding: 4px 20px;
+    
 }
 #logo > a img{
     display: flex;
